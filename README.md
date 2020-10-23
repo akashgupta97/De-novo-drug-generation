@@ -1,5 +1,7 @@
 # De-novo-drug-generation
 
+This is the implementation of the paper-
+
 This model is built using Python 3.7, and utilizes the following packages;
 
 - numpy 1.18.2
