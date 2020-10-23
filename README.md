@@ -2,8 +2,6 @@
 
 This is the implementation of the paper- [Generative Recurrent Networks for De Novo Drug Design](https://pubmed.ncbi.nlm.nih.gov/29095571/)
 
-Reproducibility report - 
-
 This model is built using Python 3.7, and utilizes the following packages;
 
 - numpy 1.18.2
